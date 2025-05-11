@@ -50,7 +50,7 @@ To see the code solutions I have developed for these Pandas exercises, please vi
 My immediate focus is on completing the next set of exercises in the [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises/tree/master) repository, which covers [mention the specific topic if you're on one, e.g., "data cleaning"].
 
 * Back to my main [README.md](../README.md)
-* Go to [Pandas Learning Code Overview](./learning_code.md)
+* Go to [Pandas Learning Code Overview](../Pandas_Learning/README.md)
 
 ---
 
