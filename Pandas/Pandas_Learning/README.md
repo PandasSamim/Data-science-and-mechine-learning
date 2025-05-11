@@ -54,7 +54,7 @@ To view the actual Pandas code I am writing as part of my learning journey, plea
 My next steps include continuing to work through the exercises and experimenting with more advanced Pandas features in the linked repository.
 
 * Back to my main [README.md](../README.md)
-* Go to [Pandas Exercises Overview](./exercises.md)
+* Go to [Pandas Exercises Overview](../Exercises/README.md)
 
 ---
 
